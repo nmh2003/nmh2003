@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" style="border-radius: 12px; margin-bottom: 20px;" alt="Header Animation"/>
+<!-- Animated Header Banner - Smaller Size -->
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="600" style="border-radius: 12px; margin-bottom: 20px;" alt="Header Animation"/>
 
 <!-- MAIN TITLE: BIG, UNIQUE, ANIMATED, COLORFUL -->
 <h1 style="font-size: 4.5em; font-weight: 900; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
