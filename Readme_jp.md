@@ -21,7 +21,7 @@
 
 ---
 
-## 🎨 About Me
+## 🎨 私について
 
 <img src="https://media.giphy.com/media/CodeWorkerCoding/giphy.gif" alt="Coding Animation" width="150"/>
 
@@ -44,7 +44,7 @@ const nguyenMinhHieu = {
 
 ---
 
-## 💻 Tech Stack
+## 💻 テックスタック
 
 ### 🌐 **Fullstack Development**
 <p align="center">
@@ -107,7 +107,7 @@ const nguyenMinhHieu = {
 
 ---
 
-## 🏆 Achievements
+## 🏆 実績
 
 <div align="center">
 
@@ -119,15 +119,15 @@ const nguyenMinhHieu = {
 
 ---
 
-## 🎯 What I Do
+## 🎯 私のすること
 
 <table align="center">
     <tr>
         <td align="center">
             <h3>🌐 Fullstack Dev</h3>
-            <p>Building scalable web applications with modern tech stacks</p>
+            <p>モダンなテックスタックでスケーラブルなウェブアプリケーションを作る</p>
             <details>
-                <summary><b>Expertise</b></summary>
+                <summary><b>専門分野</b></summary>
                 <ul>
                     <li>React & Next.js SPAs</li>
                     <li>RESTful & GraphQL APIs</li>
@@ -138,9 +138,9 @@ const nguyenMinhHieu = {
         </td>
         <td align="center">
             <h3>🐍 Data Engineer</h3>
-            <p>Designing robust data pipelines and ETL processes</p>
+            <p>強いデータパイプラインと ETL プロセスを作る</p>
             <details>
-                <summary><b>Expertise</b></summary>
+                <summary><b>専門分野</b></summary>
                 <ul>
                     <li>Data Crawling & Scraping</li>
                     <li>ETL Pipeline Development</li>
@@ -151,9 +151,9 @@ const nguyenMinhHieu = {
         </td>
         <td align="center">
             <h3>🤖 AI Specialist</h3>
-            <p>Training models and building intelligent AI agents</p>
+            <p>モデルをトレーニングして、スマートな AI エージェントを作る</p>
             <details>
-                <summary><b>Expertise</b></summary>
+                <summary><b>専門分野</b></summary>
                 <ul>
                     <li>LLM Fine-tuning & RAG</li>
                     <li>AI Agent Development</li>
@@ -167,11 +167,11 @@ const nguyenMinhHieu = {
 
 ---
 
-## 🚀 Current Projects
+## 🚀 今のプロジェクト
 
 <div align="center">
 
-| 🔭 **Working On** | 🌱 **Learning** | 💬 **Ask Me About** |
+| 🔭 **やっていること** | 🌱 **勉強中** | 💬 **聞いてください** |
 |:---:|:---:|:---:|
 | AI-Powered Web Apps | Advanced ML Techniques | Fullstack Development |
 | Intelligent Agents | Cloud Architecture | Data Engineering |
@@ -181,11 +181,11 @@ const nguyenMinhHieu = {
 
 ---
 
-## ☕ Let's Connect
+## ☕ つながりましょう
 
 <div align="center">
 
-### "Code is poetry, and I'm writing the next chapter" ✨
+### 「コードは詩です。そして、私は次の章を書いています」✨
 
 <img src="https://capsule-render.vercel.app/api/visualization/wave?color=0088ff&height=100&section=footer" alt="Wave Footer"/>
 
@@ -220,7 +220,7 @@ const nguyenMinhHieu = {
 
 <div align="center">
 
-**Thanks for visiting my profile!** 🙏
+**プロフィールを見てくれて、ありがとう！** 🙏
 
 Made with ❤️ and lots of ☕
 
