@@ -4,13 +4,15 @@
 
 ### 🚀 Fullstack Developer | Data Engineer | AI Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-nmh2003-blue?logo=github&style=for-the-badge)](https://github.com/nmh2003)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-nmh2003-blue?logo=github&style=for-the-badge&animation=fade)](https://github.com/nmh2003)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge&animation=fade)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&animation=fade)](https://linkedin.com/in/yourprofile)
 
 ---
 
 ## 🎨 About Me
+
+<img src="https://media.giphy.com/media/CodeWorkerCoding/giphy.gif" alt="Coding Animation" width="150"/>
 
 ```javascript
 const nguyenMinhHieu = {
@@ -23,7 +25,9 @@ const nguyenMinhHieu = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nmh2003&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=nmh2003&style=flat-square&color=0088ff)
+
+<img src="https://capsule-render.vercel.app/api/visualization/sparkline?username=nmh2003&theme=nord&height=60" alt="Activity Sparkline"/>
 
 </div>
 
@@ -33,45 +37,45 @@ const nguyenMinhHieu = {
 
 ### 🌐 **Fullstack Development**
 <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&animation=fade" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&animation=fade" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge&animation=fade" alt="Express"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&animation=fade" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&animation=fade" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&animation=fade" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&animation=fade" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&animation=fade" alt="TypeScript"/>
 </p>
 
 ### 🐍 **Data Engineering & AI Training**
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/Web%20Scraping-FF6B6B?style=for-the-badge" alt="Web Scraping"/>
-    <img src="https://img.shields.io/badge/Data%20Pipeline-4ECDC4?style=for-the-badge" alt="Data Pipeline"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge&animation=fade" alt="Python"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge&animation=fade" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge&animation=fade" alt="NumPy"/>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge&animation=fade" alt="Scikit-learn"/>
+    <img src="https://img.shields.io/badge/Web%20Scraping-FF6B6B?style=for-the-badge&animation=fade" alt="Web Scraping"/>
+    <img src="https://img.shields.io/badge/Data%20Pipeline-4ECDC4?style=for-the-badge&animation=fade" alt="Data Pipeline"/>
 </p>
 
 ### 🤖 **AI & Machine Learning**
 <p align="center">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI"/>
-    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-    <img src="https://img.shields.io/badge/AI%20Agents-9B59B6?style=for-the-badge" alt="AI Agents"/>
-    <img src="https://img.shields.io/badge/Chain%20of%20Thought-2ECC71?style=for-the-badge" alt="Chain of Thought"/>
-    <img src="https://img.shields.io/badge/LLM%20Fine--tuning-E74C3C?style=for-the-badge" alt="LLM Fine-tuning"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge&animation=fade" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge&animation=fade" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge&animation=fade" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&animation=fade" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/AI%20Agents-9B59B6?style=for-the-badge&animation=fade" alt="AI Agents"/>
+    <img src="https://img.shields.io/badge/Chain%20of%20Thought-2ECC71?style=for-the-badge&animation=fade" alt="Chain of Thought"/>
+    <img src="https://img.shields.io/badge/LLM%20Fine--tuning-E74C3C?style=for-the-badge&animation=fade" alt="LLM Fine-tuning"/>
 </p>
 
 ### 🛠️ **Tools & Technologies**
 <p align="center">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis"/>
-    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&animation=fade" alt="Git"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&animation=fade" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge&animation=fade" alt="Linux"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&animation=fade" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge&animation=fade" alt="Redis"/>
+    <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge&animation=fade" alt="GraphQL"/>
 </p>
 
 ---
@@ -80,11 +84,13 @@ const nguyenMinhHieu = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nmh2003&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nmh2003&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmh2003&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmh2003&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nmh2003&theme=radical&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nmh2003&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF)
+
+<img src="https://github-profile-summary-pi.vercel.app/api/github-profile-summary?username=nmh2003&theme=radical" alt="Profile Summary"/>
 
 </div>
 
@@ -95,6 +101,8 @@ const nguyenMinhHieu = {
 <div align="center">
 
 [![Trophy Case](https://github-profile-trophy.vercel.app/?username=nmh2003&theme=radical&no-frame=true&row=1&margin-w=10)](https://github.com/nmh2003)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nmh2003&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF" alt="Activity Graph"/>
 
 </div>
 
@@ -168,26 +176,28 @@ const nguyenMinhHieu = {
 
 ### "Code is poetry, and I'm writing the next chapter" ✨
 
+<img src="https://capsule-render.vercel.app/api/visualization/wave?color=0088ff&height=100&section=footer" alt="Wave Footer"/>
+
 <table align="center">
     <tr>
         <td align="center">
             <a href="mailto:your-email@example.com">
-                <img src="https://img.shields.io/badge/-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+                <img src="https://img.shields.io/badge/-Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fade" alt="Email"/>
             </a>
         </td>
         <td align="center">
             <a href="https://linkedin.com/in/yourprofile">
-                <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+                <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=fade" alt="LinkedIn"/>
             </a>
         </td>
         <td align="center">
             <a href="https://twitter.com/yourhandle">
-                <img src="https://img.shields.io/badge/-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+                <img src="https://img.shields.io/badge/-Follow%20on%20Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=fade" alt="Twitter"/>
             </a>
         </td>
         <td align="center">
             <a href="https://yourportfolio.com">
-                <img src="https://img.shields.io/badge/-View%20Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+                <img src="https://img.shields.io/badge/-View%20Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white&animation=fade" alt="Portfolio"/>
             </a>
         </td>
     </tr>
@@ -202,6 +212,8 @@ const nguyenMinhHieu = {
 **Thanks for visiting my profile!** 🙏
 
 Made with ❤️ and lots of ☕
+
+<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" alt="Coffee Animation" width="100"/>
 
 </div>
 
