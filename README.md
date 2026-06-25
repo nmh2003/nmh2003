@@ -1,12 +1,21 @@
 <div align="center">
 
-# 👋 Hello, I'm Nguyễn Minh Hiếu
+<!-- Animated Header Banner -->
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" style="border-radius: 12px; margin-bottom: 20px;" alt="Header Animation"/>
+
+<!-- MAIN TITLE: BIG, UNIQUE, ANIMATED, COLORFUL -->
+<h1 style="font-size: 4.5em; font-weight: 900; margin: 10px 0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&duration=3500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%91%8B+Hello,+I'm;Nguy%E1%BB%85n+Minh+Hi%E1%BA%BFu;Fullstack+%26+AI+Engineer;Data+Scientist+%26+ML+Expert" alt="Animated Title"/>
+</h1>
 
 ### 🚀 Fullstack Developer | Data Engineer | AI Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-nmh2003-blue?logo=github&style=for-the-badge&animation=fade)](https://github.com/nmh2003)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge&animation=fade)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge&animation=fade)](https://linkedin.com/in/yourprofile)
+<!-- Colorful Animated Badges -->
+<p>
+  <img src="https://img.shields.io/badge/GitHub-nmh2003-58A6FF?logo=github&style=for-the-badge&labelColor=161b22&animation=fade" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-da3633?logo=gmail&style=for-the-badge&labelColor=161b22&animation=fade" alt="Email"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-2ea043?logo=linkedin&style=for-the-badge&labelColor=161b22&animation=fade" alt="LinkedIn"/>
+</p>
 
 ---
 
